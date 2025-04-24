@@ -1,0 +1,36 @@
+public final class app/cash/paparazzi/plugin/test/ComposableSingletons$CompositeComposableKt {
+	public static final field INSTANCE Lapp/cash/paparazzi/plugin/test/ComposableSingletons$CompositeComposableKt;
+	public fun <init> ()V
+	public final fun getLambda-1$accessibility_rendering_release ()Lkotlin/jvm/functions/Function2;
+	public final fun getLambda-2$accessibility_rendering_release ()Lkotlin/jvm/functions/Function2;
+	public final fun getLambda-3$accessibility_rendering_release ()Lkotlin/jvm/functions/Function2;
+}
+
+public final class app/cash/paparazzi/plugin/test/ComposableSingletons$MixedViewKt {
+	public static final field INSTANCE Lapp/cash/paparazzi/plugin/test/ComposableSingletons$MixedViewKt;
+	public fun <init> ()V
+	public final fun getLambda-1$accessibility_rendering_release ()Lkotlin/jvm/functions/Function2;
+	public final fun getLambda-2$accessibility_rendering_release ()Lkotlin/jvm/functions/Function2;
+}
+
+public final class app/cash/paparazzi/plugin/test/ComposableSingletons$SimpleComposableKt {
+	public static final field INSTANCE Lapp/cash/paparazzi/plugin/test/ComposableSingletons$SimpleComposableKt;
+	public fun <init> ()V
+	public final fun getLambda-1$accessibility_rendering_release ()Lkotlin/jvm/functions/Function3;
+	public final fun getLambda-2$accessibility_rendering_release ()Lkotlin/jvm/functions/Function3;
+	public final fun getLambda-3$accessibility_rendering_release ()Lkotlin/jvm/functions/Function3;
+}
+
+public final class app/cash/paparazzi/plugin/test/CompositeComposableKt {
+	public static final fun CompositeComposable (Landroidx/compose/runtime/Composer;I)V
+}
+
+public final class app/cash/paparazzi/plugin/test/MixedView : android/widget/LinearLayout {
+	public static final field $stable I
+	public fun <init> (Landroid/content/Context;)V
+}
+
+public final class app/cash/paparazzi/plugin/test/SimpleComposableKt {
+	public static final fun SimpleComposable (Landroidx/compose/runtime/Composer;I)V
+}
+
